@@ -76,6 +76,8 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 <img width="960" height="539" alt="Screenshot 2026-10-23 134408" src="https://github.com/user-attachments/assets/9100025b-66a0-4ea9-9760-5e9ace1e3c7f" />
 <img width="960" height="539" alt="Screenshot 2026-10-23 134353" src="https://github.com/user-attachments/assets/974e76ab-6aa7-4970-adc5-297417daf207" />
 <img width="960" height="539" alt="Screenshot 2026-10-23 134243" src="https://github.com/user-attachments/assets/4f00511a-4796-46e6-8780-b319419e285c" />
+
+
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
 
